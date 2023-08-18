@@ -1,5 +1,5 @@
-Market Segmentation is the process of dividing a broader market into smaller, more manageable segments based on certain characteristics or criteria. This segmentation allows businesses to target specific groups of customers with tailored marketing strategies and products/services that cater to their unique needs and preferences. Here are some key points about market segmentation:
-
+**Market Segmentation is the process of dividing a broader market into smaller, more manageable segments based on certain characteristics or criteria. This segmentation allows businesses to target specific groups of customers with tailored marketing strategies and products/services that cater to their unique needs and preferences. Here are some key points about market segmentation:
+**
 **1. Why Market Segmentation is Important:**
 
 Personalization: It enables businesses to offer customized solutions to different customer groups, enhancing customer satisfaction.
